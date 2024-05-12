@@ -3,14 +3,22 @@ You are tasked with building a data-driven system to provide personalized invest
 
 
 To run the ipynb 
+
 Upload file on google colab and run the file
+
 (OR)
 
 git clone <repository_url>
+
 cd <repository_directory>
+
 python filename.py
 
+
 Requirements
+
 Python 3.12.0
+
 code 1.88.1
+
 Jupyter notebook/Google colab/VSCode
